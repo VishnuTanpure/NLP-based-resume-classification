@@ -1,7 +1,9 @@
 # NLP-based-resume-classification
 NLP based Machine Learning project
+---
 ![Resume Classification Screenshot](https://github.com/VishnuTanpure/NLP-based-resume-classification/blob/main/Screenshot%202024-09-20%20235522.png)
-
+---
+![Resume Classification Screenshot](https://github.com/VishnuTanpure/NLP-based-resume-classification/blob/main/Screenshot%202024-09-20%20235555.png)
 ---
 ### Project Overview
 
